@@ -1,0 +1,85 @@
+body{
+	background-color: grey; 
+}
+
+.page{
+	width: 780px;
+	margin: auto;
+	font-family: 'Calibri',Tahoma,sans-serif;
+	font-size: 16px;
+	border: 5px solid #ea4d2b;
+	padding: 20px;
+	background-color: white;
+}
+
+.top{
+	height: 250px;
+}
+
+.presentation{
+	float: left;
+}
+
+.photo{
+	float: right;
+}
+
+.section{
+	margin-bottom: 70px;
+	text-align: justify;
+}
+.left{
+	float: left;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.right{
+	margin-left: 160px;
+	margin-top: 40px
+
+}
+h2{
+	font-size: 25px;
+	color: #ea4d2b;
+	border-bottom: 3px solid #ea4d2b;
+}
+.duree{
+	font-weight: normal;
+	font-style: italic;
+	font-size: 16px;
+}
+
+.titre{
+	font-weight: bold;
+	font-size: 20px;
+}
+#formag p{
+	margin-top : 20px;
+}
+#expg p{
+	margin-top : 30px;
+}
+#langued p{
+	margin-top: 30PX;
+}
+#langueg p{
+	margin-top: 20px;
+}
+
+#itg{
+	margin-top: 5px;
+
+}
+
+#itd{
+	margin-top: 45px;
+}
+strong{
+	font-size: 22px;
+}
+
+h1{
+	font-weight: strong;
+	text-align: right;
+}
